@@ -19,6 +19,7 @@
     </style>
 
     <style name="Theme.MainActivity" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/launch_window_background</item>
         <!-- System UI Configurations-->
         <item name="android:statusBarColor">@color/primary_color</item>
         <!-- For making status bar content color dark -->
